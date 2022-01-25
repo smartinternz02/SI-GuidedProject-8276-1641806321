@@ -5,6 +5,7 @@
   A image classification project that makes use of transfer learning
   </h3><br>
 
+<b>Video explanation link:</b>  https://drive.google.com/file/d/1zdX0T8ktQNOeFgkqol7EMq4UzfjckxpJ/view
 
 ## What does this project do ?
 This project deals with creating an image classification model that makes use of transfer learning in order to detect building defects
