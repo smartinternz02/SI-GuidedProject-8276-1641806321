@@ -7,7 +7,7 @@
 
 <b>Project video explanation link:</b>  https://drive.google.com/file/d/1zdX0T8ktQNOeFgkqol7EMq4UzfjckxpJ/view 
 
-<b>Project video explanation link:</b>  https://drive.google.com/file/d/1XSAZQZ2ChByTajWVKTK6bd0but4hOSKG/view?usp=sharing
+<b>Project video working link:</b>  https://drive.google.com/file/d/1XSAZQZ2ChByTajWVKTK6bd0but4hOSKG/view?usp=sharing
 
 ## What does this project do ?
 This project deals with creating an image classification model that makes use of transfer learning in order to detect building defects
