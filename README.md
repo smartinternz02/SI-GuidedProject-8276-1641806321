@@ -9,6 +9,8 @@
 
 <b>Project working video link:</b>  https://drive.google.com/file/d/1XSAZQZ2ChByTajWVKTK6bd0but4hOSKG/view?usp=sharing
 
+<b>IBM Cloud Notebook Link : </b><br> https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f3a42f10-bb77-4c73-aeb5-d9057c4f262f/view?access_token=d8b7f01983e9047ece3462c7b4e9e13e1bdb0d3451abdadfd1fbe21b4b59c11d
+
 ## What does this project do ?
 This project deals with creating an image classification model that makes use of transfer learning in order to detect building defects
 such as Roof defects, Flakes and cracks in the building. In this model, we make the use of an already trained <b>VGG16 feature extractor model.</b>
